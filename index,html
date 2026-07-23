@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechNova - Agencia de Desarrollo Web</title>
+</head>
+<body>
+    <header>
+        <h2>TechNova Solutions</h2>
+      
+        <nav aria-label="Navegación principal">
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#productos">Productos</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        
+        <section id="inicio">
+            <h1>Transformamos tus ideas en realidad digital</h1>
+            <p>Somos una agencia especializada en crear soluciones web accesibles, rápidas y modernas para hacer crecer tu negocio en internet.</p>
+        </section>
+
+        <section id="servicios">
+            <h2>Nuestros Servicios</h2>
+            
+            <article>
+                <h3>Desarrollo Web</h3>
+                <p>Creamos sitios web a medida utilizando las últimas tecnologías HTML5, CSS3 y JavaScript, garantizando el mejor rendimiento.</p>
+            </article>
+
+            <article>
+                <h3>Diseño UI/UX</h3>
+                <p>Diseñamos interfaces atractivas y fáciles de usar, pensando siempre en la accesibilidad y la experiencia del usuario.</p>
+            </article>
+
+            <article>
+                <h3>Consultoría SEO</h3>
+                <p>Optimizamos tu sitio para que aparezca en los primeros resultados de Google, aumentando tu tráfico orgánico.</p>
+            </article>
+        </section>
+
+        <aside>
+            <h2>Oferta Especial</h2>
+            <p>Contrata tu página web este mes y obtén el primer año de alojamiento (hosting) totalmente gratis.</p>
+        </aside>
+
+    </main>
+  
+    <footer id="contacto">
+        <h2>Información de Contacto</h2>
+        <address>
+            <p>Email: <a href="mailto:hola@technova.com">hola@technova.com</a></p>
+            <p>Teléfono: +502 1234-5678</p>
+        </address>
+        <p>&copy; 2026 TechNova Solutions. Desarrollado por Gustavo Godoy.</p>
+    </footer>
+
+</body>
+</html>
